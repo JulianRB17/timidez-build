@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7475145.css",
+    "main.js": "/static/js/main.e8a5a9ee.js",
+    "static/js/787.c58a8115.chunk.js": "/static/js/787.c58a8115.chunk.js",
+    "static/media/fondo-registro.jpg": "/static/media/fondo-registro.e1cf9ea7fc1e1d83448c.jpg",
+    "static/media/fondoForm.webp": "/static/media/fondoForm.c9a39b109dee7bbeea15.webp",
+    "static/media/fondo-ventas.webp": "/static/media/fondo-ventas.c1f57c79f2b268083e68.webp",
+    "static/media/Quicksand-VariableFont_wght.ttf": "/static/media/Quicksand-VariableFont_wght.b964ff93d9cb23e7f4c0.ttf",
+    "static/media/metodologia.webp": "/static/media/metodologia.1cbffa356430b595331f.webp",
+    "static/media/alfombra-roja.jpg": "/static/media/alfombra-roja.152a4b7ac362fcc401f5.jpg",
+    "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "static/media/bio.webp": "/static/media/bio.97432133e88bb9a2b661.webp",
+    "static/media/maslow.png": "/static/media/maslow.d4cdaa3cd01e07689e87.png",
+    "static/media/fondoBio.webp": "/static/media/fondoBio.913e40603126373975a8.webp",
+    "static/media/fondo.webp": "/static/media/fondo.e3a380369116bdc39ab4.webp",
+    "static/media/logo-transparente.png": "/static/media/logo-transparente.59e9efbb87a30bf6540e.png",
+    "static/media/heroFondoSm.webp": "/static/media/heroFondoSm.279ef1e227308d9927ec.webp",
+    "static/media/warranty.png": "/static/media/warranty.ef39bfdc2c87e6bdca34.png",
+    "static/media/retratoPequeno.webp": "/static/media/retratoPequeno.6a40c356767391636d8f.webp",
+    "static/media/price.png": "/static/media/price.23bee9e7285e90eb79f4.png",
+    "index.html": "/index.html",
+    "main.d7475145.css.map": "/static/css/main.d7475145.css.map",
+    "main.e8a5a9ee.js.map": "/static/js/main.e8a5a9ee.js.map",
+    "787.c58a8115.chunk.js.map": "/static/js/787.c58a8115.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7475145.css",
+    "static/js/main.e8a5a9ee.js"
+  ]
+}
