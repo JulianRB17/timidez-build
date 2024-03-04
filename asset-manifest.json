@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.91eb9553.css",
-    "main.js": "/static/js/main.65c2e203.js",
+    "main.css": "/static/css/main.0133f3bb.css",
+    "main.js": "/static/js/main.1212c19f.js",
     "static/js/787.c58a8115.chunk.js": "/static/js/787.c58a8115.chunk.js",
+    "static/media/overlay-blue-s.webp": "/static/media/overlay-blue-s.2fa6f3e1043df37258c2.webp",
     "static/media/fondo-ventas.webp": "/static/media/fondo-ventas.c1f57c79f2b268083e68.webp",
     "static/media/fondoForm.webp": "/static/media/fondoForm.48308cc2483ecc9993f4.webp",
     "static/media/Quicksand-VariableFont_wght.ttf": "/static/media/Quicksand-VariableFont_wght.b964ff93d9cb23e7f4c0.ttf",
     "static/media/metodologia.webp": "/static/media/metodologia.1cbffa356430b595331f.webp",
     "static/media/alfombra-roja.jpg": "/static/media/alfombra-roja.152a4b7ac362fcc401f5.jpg",
     "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
-    "static/media/fondo-amixs.webp": "/static/media/fondo-amixs.d4c35a7ada5408493a5b.webp",
     "static/media/bio.webp": "/static/media/bio.97432133e88bb9a2b661.webp",
     "static/media/maslow.png": "/static/media/maslow.d4cdaa3cd01e07689e87.png",
     "static/media/fondoBio.webp": "/static/media/fondoBio.913e40603126373975a8.webp",
@@ -20,12 +20,12 @@
     "static/media/retratoPequeno.webp": "/static/media/retratoPequeno.6a40c356767391636d8f.webp",
     "static/media/price.png": "/static/media/price.23bee9e7285e90eb79f4.png",
     "index.html": "/index.html",
-    "main.91eb9553.css.map": "/static/css/main.91eb9553.css.map",
-    "main.65c2e203.js.map": "/static/js/main.65c2e203.js.map",
+    "main.0133f3bb.css.map": "/static/css/main.0133f3bb.css.map",
+    "main.1212c19f.js.map": "/static/js/main.1212c19f.js.map",
     "787.c58a8115.chunk.js.map": "/static/js/787.c58a8115.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91eb9553.css",
-    "static/js/main.65c2e203.js"
+    "static/css/main.0133f3bb.css",
+    "static/js/main.1212c19f.js"
   ]
 }
