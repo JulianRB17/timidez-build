@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0133f3bb.css",
-    "main.js": "/static/js/main.1212c19f.js",
+    "main.js": "/static/js/main.fa3152d2.js",
     "static/js/787.c58a8115.chunk.js": "/static/js/787.c58a8115.chunk.js",
     "static/media/overlay-blue-s.webp": "/static/media/overlay-blue-s.2fa6f3e1043df37258c2.webp",
     "static/media/fondo-ventas.webp": "/static/media/fondo-ventas.c1f57c79f2b268083e68.webp",
@@ -21,11 +21,11 @@
     "static/media/price.png": "/static/media/price.23bee9e7285e90eb79f4.png",
     "index.html": "/index.html",
     "main.0133f3bb.css.map": "/static/css/main.0133f3bb.css.map",
-    "main.1212c19f.js.map": "/static/js/main.1212c19f.js.map",
+    "main.fa3152d2.js.map": "/static/js/main.fa3152d2.js.map",
     "787.c58a8115.chunk.js.map": "/static/js/787.c58a8115.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0133f3bb.css",
-    "static/js/main.1212c19f.js"
+    "static/js/main.fa3152d2.js"
   ]
 }
