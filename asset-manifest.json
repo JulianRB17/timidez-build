@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.6372f0c5.css",
-    "main.js": "/static/js/main.2da548fc.js",
+    "main.css": "/static/css/main.5d065e72.css",
+    "main.js": "/static/js/main.8699e668.js",
     "static/js/787.c58a8115.chunk.js": "/static/js/787.c58a8115.chunk.js",
-    "static/media/fondo-ventas.webp": "/static/media/fondo-ventas.c1f57c79f2b268083e68.webp",
     "static/media/fondoForm.webp": "/static/media/fondoForm.48308cc2483ecc9993f4.webp",
     "static/media/overlay-blue-s.webp": "/static/media/overlay-blue-s.70dd93bd3e17c7caedb0.webp",
     "static/media/Quicksand-VariableFont_wght.ttf": "/static/media/Quicksand-VariableFont_wght.b964ff93d9cb23e7f4c0.ttf",
     "static/media/metodologia.webp": "/static/media/metodologia.1cbffa356430b595331f.webp",
+    "static/media/fondo-ventas.webp": "/static/media/fondo-ventas.16e7d679ee39b5bbbadb.webp",
     "static/media/alfombra-roja.jpg": "/static/media/alfombra-roja.152a4b7ac362fcc401f5.jpg",
     "static/media/logo-oscuro-transparente.png": "/static/media/logo-oscuro-transparente.38b1ca2578beb1c72107.png",
     "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
@@ -21,12 +21,12 @@
     "static/media/retratoPequeno.webp": "/static/media/retratoPequeno.6a40c356767391636d8f.webp",
     "static/media/price.png": "/static/media/price.23bee9e7285e90eb79f4.png",
     "index.html": "/index.html",
-    "main.6372f0c5.css.map": "/static/css/main.6372f0c5.css.map",
-    "main.2da548fc.js.map": "/static/js/main.2da548fc.js.map",
+    "main.5d065e72.css.map": "/static/css/main.5d065e72.css.map",
+    "main.8699e668.js.map": "/static/js/main.8699e668.js.map",
     "787.c58a8115.chunk.js.map": "/static/js/787.c58a8115.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6372f0c5.css",
-    "static/js/main.2da548fc.js"
+    "static/css/main.5d065e72.css",
+    "static/js/main.8699e668.js"
   ]
 }
